@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **VR Platform for athletes**
 
-- 🌱 I’m currently learning **React, and TypeScript**
+- 🌱 I’m currently learning **NextJs**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a></a>https://www.linkedin.com/in/avi-pancholi/</a></a></h3>
 <p align="left">
 </p>
 
