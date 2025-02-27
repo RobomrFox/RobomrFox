@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avi</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
+# Hellow
+
 - 🔭 I’m currently working on **VR Platform for athletes**
 
 - 🌱 I’m currently learning **NextJs**
