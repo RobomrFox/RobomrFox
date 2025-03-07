@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22363
-Fork on GitHub7286
+
 <h1 align="center">Hi 👋, I'm Avi</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
